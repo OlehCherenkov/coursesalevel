@@ -12,7 +12,7 @@ if(isset($_POST['surname']) && isset($_POST['name']) && isset($_POST['secondname
 	}elseif(isset($_POST['optionsRadios3'])){
 	$optionsRadios = "Гражданский брак";
 	}else{
-		echo "Данные не получены"
+		echo "Данные не получены";
 	}
 	$skill = $_POST['skill'];
     $hobby = $_POST['hobby'];
