@@ -88,6 +88,7 @@ else
 	<br>
 	<p class="bg-warning text-warning">Введенные данные некорректны</p>
 	<a class="btn btn-warning" href="./form.html" role="button">Назад</a>
-	</div></body></html>';
+	</div>
+	</body></html>';
 }
 ?>
